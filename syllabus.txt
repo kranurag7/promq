@@ -1,0 +1,11 @@
+
+
++────────────────────────────────+────────────+
+| PCA Syllabus                   | Weightage  |
++────────────────────────────────+────────────+
+| Observability Concepts         | 18%        |
+| Prometheus Fundamentals        | 20%        |
+| PromQL                         | 28%        |
+| Instrumentation and Exporters  | 16%        |
+| Alerting & Dashboarding        | 18%        |
++────────────────────────────────+────────────+
